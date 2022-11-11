@@ -1,0 +1,30 @@
+ vc tem o direito de usa imagem:
+vai no google image e escolhe uma img seguindo aos padroes legais
+
+melhores formatos pra web:
+jpeg alta compactacao ex: foto gigante no fundo da tela
+png permite transparencia ex: img que flutua por cima e fundo transparente
+
+tamanho de img certo pra usar num site:
+1500width
+
+1200 tamanho otimo pra usar no fundo do site
+
+resolucao
+72
+
+img pra aparecer num site:
+650 otimo pra usar durante o conteudo
+
+
+logo 200
+
+favcon
+
+vou no site iconarchive .ico
+favcon.cc
+favicon.io
+
+
+
+
